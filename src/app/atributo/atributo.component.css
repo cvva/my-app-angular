@@ -1,0 +1,11 @@
+.info{
+    color: blueviolet;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.error{
+    color: tomato;
+    font-size: 24px;
+    font-weight: bold;
+}
